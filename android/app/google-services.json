@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "339558302472",
+    "project_id": "tugas-1274d",
+    "storage_bucket": "tugas-1274d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339558302472:android:56240d35364202a1cb62bd",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDM-A-kq2Dvi0bjEVRlb8Or7FsSH33Ow_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339558302472:android:91db7cc704b4804ecb62bd",
+        "android_client_info": {
+          "package_name": "com.example.tugas_cloud"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDM-A-kq2Dvi0bjEVRlb8Or7FsSH33Ow_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339558302472:android:33fa86e108326b43cb62bd",
+        "android_client_info": {
+          "package_name": "com.example.tugas_oo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDM-A-kq2Dvi0bjEVRlb8Or7FsSH33Ow_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
